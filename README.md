@@ -1,4 +1,4 @@
 # Run this code
-```
-node solution
+```bash
+$ node solution
 ```
